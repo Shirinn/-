@@ -2,7 +2,7 @@ title:             Shirin Mojarad
 email:             shirin.mojarad@example.com
 description:       A Machine Learning Blog
 author:            Shirin Mojarad
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "http://shirinn.github.io"
 
 # Social Profiles
